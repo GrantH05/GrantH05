@@ -3,11 +3,12 @@
 </div>
 
 ## 👨‍💻 About Me
-- 🎓 B.Tech Computer Science Engineering (AI Specialization) from Gujarat, India
-- 💻 Full-stack developer passionate about Next.js, MongoDB, Node.js, and AWS
-- 🤖 Exploring AI/ML, neural networks, and agentic AI frameworks
-- 🚀 Building teacher/student dashboards, auth systems, and AI chatbots
-- 🎨 Love UI/UX design, anime, and hackathons
+- Computer Science student at VIT Bhopal (CGPA: 9.11/10) specializing in Artificial Intelligence & Machine Learning
+- Passionate about building end-to-end ML solutions that solve real-world problems and improve operational efficiency.
+- Currently learning: Agentic AI, Advanced NLP, DSA, ML, Neural Networks and more
+- Learnt: Data Analysis, Web Development
+- Interested in applying AI to cater to day to day needs
+- 2025 Goals: Contribute more to open source, master MLOps, and build impactful AI products
 
 ## 🛠️ Tech Stack
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
