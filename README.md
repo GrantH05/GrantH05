@@ -26,8 +26,8 @@
 
 ## 📫 Connect With Me
 - 📧 Email: grnth05@gmail.com (add your email)
-- 💼 LinkedIn: [GrantH05](https://www.linkedin.com/in/granths)
-- 🐦 Resume: [GrantH05](https://github.com/GrantH05/Resume/blob/main/Resume(Granth).pdf)
+- 💼 LinkedIn: [GranthS](https://www.linkedin.com/in/granths)
+- 🐦 Resume: [GranthSatsangi](https://github.com/GrantH05/Resume/blob/main/Resume(Granth).pdf)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GrantH05&style=flat-square&color=blue" alt="Profile Views"/>
